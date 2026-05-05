@@ -8,7 +8,7 @@ PHASE 2: OOPS & STRUCTURED PROGRAMMING
 
 Design a system using classes to manage student records with features to add, update, delete, and display students.
 
-[Program 1][program1.py]
+[Program 1](program1.py)
 
 ---
 
@@ -16,7 +16,7 @@ Design a system using classes to manage student records with features to add, up
 
 Create a `BankAccount` class with methods for deposit, withdrawal, and balance inquiry. Handle invalid transactions.
 
-[Program 2][program2.py]
+[Program 2](program2.py)
 
 ---
 
@@ -24,7 +24,7 @@ Create a `BankAccount` class with methods for deposit, withdrawal, and balance
 
 Create a base class `Vehicle` and derive classes like `Car` and `Bike` with specific attributes and methods.
 
-[Program 3][program3.py]
+[Program 3](program3.py)
 
 ---
 
@@ -32,7 +32,7 @@ Create a base class `Vehicle` and derive classes like `Car` and `Bike` wit
 
 Design a system with classes for `Book` and `Member` to issue and return books while tracking availability.
 
-[Program 4][program4.py]
+[Program 4](program4.py)
 
 ---
 
